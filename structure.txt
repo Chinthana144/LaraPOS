@@ -1,0 +1,49 @@
+//Structure of cloud
+
+Company - Company settings
+StockType
+Shop - details about shop
+Shop settings - all the features of the shop
+
+//=== Assign Shop Users ===//
+shopUser modal, controller and view, js
+
+Shop Select option
+
+Modules, Features
+
+//pos system start with categories
+Categories
+
+//=== items ===//
+ItemImage
+Barcode
+ItemName
+Description
+SecondName
+ScaleType(Pcs, Weight, Length, Volume)
+is_expire
+is_warranty
+
+//=== Shop Feature List ===//
+Wholesale
+Retail
+is_inventory
+is_minus
+is_category
+is_image
+is_expire
+is_supplier
+is_service
+is_salesman
+is_expenses
+is_customers
+is_fixedprice
+is_warranty
+is_promotions
+is_secondlanguage
+is_labelprice
+is_quotation
+is_racks
+is_color
+is_size
